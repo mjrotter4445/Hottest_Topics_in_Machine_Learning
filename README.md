@@ -2,8 +2,8 @@
 
 
 <p align="center">
-  <img width="1000" height=700" src="https://github.com/mjrotter4445/Nueral_Network_Charity_Analysis/blob/main/Graphics/Fig1_orig_df.jpg">
+  <img width="1000" height=700" src="xx">
 </p>
 <p align="center">
-Figure 1 - The Dataframe of Information we'll be working with 
+The WordCloud developed from the Model - Hottest Topics in ML 
 </p>
